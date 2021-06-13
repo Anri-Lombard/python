@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2eebfdf-fb9b-4bf1-b272-3de4cc09fb14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Codewars/June/13/divisor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codewars/June/13/divisor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Codewars/June/13/divisor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,8 @@
       <workItem from="1623581157265" duration="1017000" />
       <workItem from="1623582368440" duration="560000" />
       <workItem from="1623583012932" duration="570000" />
-      <workItem from="1623583612006" duration="62000" />
+      <workItem from="1623583612006" duration="314000" />
+      <workItem from="1623584005583" duration="19000" />
     </task>
     <servers />
   </component>
