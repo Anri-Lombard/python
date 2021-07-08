@@ -1,4 +1,4 @@
-def anagrams(S):
+def anagrams(S): # S is a set of strings
     d = {}
     for word in S:
         s = ''.join(sorted(word))
